@@ -1,0 +1,194 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Tech Conference 2025 Opens in Bangkok",
+      "category": "Technology",
+      "reporter": "Alice Johnson",
+      "newsDateTime": "2025-08-10T10:00:00Z",
+      "description": "The biggest tech event of the year kicks off.",
+      "content": "The Bangkok International Tech Conference 2025 opened today with thousands of attendees from around the world. Keynote speakers discussed the future of AI, blockchain, and green technologies.",
+      "image": "https://picsum.photos/id/1015/600/400.jpg",
+      "fakeCount": 2,
+      "notFakeCount": 50,
+      "voteType": "not-fake",
+      "comments": [
+        {
+          "id": 101,
+          "newsId": 1,
+          "author": "John Doe",
+          "content": "This event sounds amazing!",
+          "image": "https://picsum.photos/id/1005/100/100.jpg",
+          "voteType": "not-fake",
+          "commentDateTime": "2025-08-10T12:30:00Z"
+        },
+        {
+          "id": 102,
+          "newsId": 1,
+          "author": "Jane Smith",
+          "content": "I wish I could attend!",
+          "image": "https://picsum.photos/id/1006/100/100.jpg",
+          "voteType": "not-fake",
+          "commentDateTime": "2025-08-10T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "New Electric Car Model Released",
+      "category": "Automotive",
+      "reporter": "Michael Brown",
+      "newsDateTime": "2025-08-11T09:00:00Z",
+      "description": "A groundbreaking EV model was revealed.",
+      "content": "The new EV promises a 700km range on a single charge, autonomous driving features, and faster charging times compared to previous models.",
+      "image": "https://picsum.photos/id/1016/600/400.jpg",
+      "fakeCount": 1,
+      "notFakeCount": 70,
+      "voteType": "not-fake",
+      "comments": [
+        {
+          "id": 201,
+          "newsId": 2,
+          "author": "Tom Wilson",
+          "content": "Finally, long-range EVs are here!",
+          "image": "https://picsum.photos/id/1011/100/100.jpg",
+          "voteType": "not-fake",
+          "commentDateTime": "2025-08-11T10:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Global Markets See Sudden Drop",
+      "category": "Finance",
+      "reporter": "Emma Davis",
+      "newsDateTime": "2025-08-12T08:00:00Z",
+      "description": "Stock markets tumble worldwide.",
+      "content": "Markets across Asia and Europe fell sharply this morning following concerns over slowing global growth and rising inflation.",
+      "image": "https://picsum.photos/id/1021/600/400.jpg",
+      "fakeCount": 5,
+      "notFakeCount": 30,
+      "voteType": "fake",
+      "comments": []
+    },
+    {
+      "id": 4,
+      "title": "Record-Breaking Heatwave Hits Europe",
+      "category": "Environment",
+      "reporter": "Liam Wong",
+      "newsDateTime": "2025-08-13T15:00:00Z",
+      "description": "Extreme heat recorded in multiple countries.",
+      "content": "Several countries in Europe are experiencing record-breaking heat, with temperatures exceeding 45°C in some areas. Authorities warn of health risks.",
+      "image": "https://picsum.photos/id/1022/600/400.jpg",
+      "fakeCount": 3,
+      "notFakeCount": 60,
+      "voteType": "not-fake",
+      "comments": [
+        {
+          "id": 401,
+          "newsId": 4,
+          "author": "Sarah Lee",
+          "content": "Climate change is real!",
+          "image": "https://picsum.photos/id/1012/100/100.jpg",
+          "voteType": "not-fake",
+          "commentDateTime": "2025-08-13T16:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Breakthrough in Cancer Research",
+      "category": "Health",
+      "reporter": "Noah Kim",
+      "newsDateTime": "2025-08-14T11:00:00Z",
+      "description": "Scientists announce new promising therapy.",
+      "content": "A new therapy tested on patients shows significant progress in reducing tumor size with minimal side effects.",
+      "image": "https://picsum.photos/id/1023/600/400.jpg",
+      "fakeCount": 0,
+      "notFakeCount": 90,
+      "voteType": "not-fake",
+
+      "comments": []
+    },
+    {
+      "id": 6,
+      "title": "Major Cyberattack on Banking Systems",
+      "category": "Cybersecurity",
+      "reporter": "Sophia Martinez",
+      "newsDateTime": "2025-08-14T22:00:00Z",
+      "description": "Banks worldwide targeted by hackers.",
+      "content": "A coordinated cyberattack disrupted services in major banks across multiple countries. Authorities are investigating possible state involvement.",
+      "image": "https://picsum.photos/id/1024/600/400.jpg",
+      "fakeCount": 7,
+      "notFakeCount": 20,
+      "voteType": "fake",
+      "comments": []
+    },
+    {
+      "id": 7,
+      "title": "AI Robot Assists in Surgery",
+      "category": "Technology",
+      "reporter": "David Green",
+      "newsDateTime": "2025-08-15T14:30:00Z",
+      "description": "AI used in complex surgery.",
+      "content": "Doctors successfully completed a surgery with the assistance of an AI-powered robotic system, reducing operation time by 40%.",
+      "image": "https://picsum.photos/id/1025/600/400.jpg",
+      "fakeCount": 1,
+      "notFakeCount": 100,
+      "voteType": "not-fake",
+      "comments": []
+    },
+    {
+      "id": 8,
+      "title": "SpaceX Launches New Mission to Mars",
+      "category": "Space",
+      "reporter": "Olivia White",
+      "newsDateTime": "2025-08-15T20:00:00Z",
+      "description": "Historic mission to colonize Mars begins.",
+      "content": "SpaceX successfully launched its latest rocket carrying equipment and crew for the Mars colonization program.",
+      "image": "https://picsum.photos/id/1026/600/400.jpg",
+      "fakeCount": 0,
+      "notFakeCount": 120,
+      "voteType": "not-fake",
+      "comments": [
+        {
+          "id": 801,
+          "newsId": 8,
+          "author": "Chris Evans",
+          "content": "History in the making!",
+          "image": "https://picsum.photos/id/1013/100/100.jpg",
+          "voteType": "not-fake",
+          "commentDateTime": "2025-08-15T21:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "New Gaming Console Announced",
+      "category": "Entertainment",
+      "reporter": "Daniel Scott",
+      "newsDateTime": "2025-08-16T09:00:00Z",
+      "description": "Next-gen console set to release this winter.",
+      "content": "The new console boasts 8K graphics, ultra-fast loading times, and support for immersive VR experiences.",
+      "image": "https://picsum.photos/id/1027/600/400.jpg",
+      "fakeCount": 2,
+      "notFakeCount": 80,
+      "voteType": "not-fake",
+      "comments": []
+    },
+    {
+      "id": 10,
+      "title": "World Leaders Meet for Climate Summit",
+      "category": "Politics",
+      "reporter": "Sophia Turner",
+      "newsDateTime": "2025-08-16T18:00:00Z",
+      "description": "Urgent talks on climate crisis.",
+      "content": "Leaders from 50+ countries gathered to discuss new commitments toward reducing global carbon emissions and transitioning to renewable energy.",
+      "image": "https://picsum.photos/id/1028/600/400.jpg",
+      "fakeCount": 4,
+      "notFakeCount": 60,
+      "voteType": "not-fake",
+      "comments": []
+    }
+  ]
+}
