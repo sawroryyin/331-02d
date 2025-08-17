@@ -8,7 +8,7 @@
       "newsDateTime": "2025-08-10T10:00:00Z",
       "description": "The biggest tech event of the year kicks off.",
       "content": "The Bangkok International Tech Conference 2025 opened today with thousands of attendees from around the world. Keynote speakers discussed the future of AI, blockchain, and green technologies.",
-      "image": "https://picsum.photos/id/1015/600/400.jpg",
+      "image": "https://www.bangkokpost.com/events/media/content/2023/08/23/gal-63-3680.jpg",
       "fakeCount": 2,
       "notFakeCount": 50,
       "voteType": "not-fake",
@@ -17,8 +17,8 @@
           "id": 101,
           "newsId": 1,
           "author": "John Doe",
-          "content": "This event sounds amazing!",
-          "image": "https://picsum.photos/id/1005/100/100.jpg",
+          "content": "Yeah, I went to that event",
+          "image": "https://www.bangkokpost.com/events/media/content/2023/08/23/gal-63-3685.jpg",
           "voteType": "not-fake",
           "commentDateTime": "2025-08-10T12:30:00Z"
         },
@@ -26,8 +26,44 @@
           "id": 102,
           "newsId": 1,
           "author": "Jane Smith",
-          "content": "I wish I could attend!",
-          "image": "https://picsum.photos/id/1006/100/100.jpg",
+          "content": "With my friends there!",
+          "image": "https://www.bangkokpost.com/events/media/content/2023/08/23/gal-63-3675.jpg",
+          "voteType": "not-fake",
+          "commentDateTime": "2025-08-10T13:00:00Z"
+        },
+        {
+          "id": 103,
+          "newsId": 1,
+          "author": "Min Thant Ko",
+          "content": "I saw it on the news",
+          "image": "",
+          "voteType": "not-fake",
+          "commentDateTime": "2025-08-10T13:00:00Z"
+        },
+        {
+          "id": 104,
+          "newsId": 1,
+          "author": "Wai Yan",
+          "content": "I attended last year",
+          "image": "",
+          "voteType": "not-fake",
+          "commentDateTime": "2025-08-10T13:00:00Z"
+        },
+        {
+          "id": 105,
+          "newsId": 1,
+          "author": "Phone Myat",
+          "content": "Nice!",
+          "image": "",
+          "voteType": "not-fake",
+          "commentDateTime": "2025-08-10T13:00:00Z"
+        },
+        {
+          "id": 106,
+          "newsId": 1,
+          "author": "Ko Ko",
+          "content": "I gave a speech there!",
+          "image": "https://www.bangkokpost.com/events/media/content/2023/08/23/gal-63-3678.jpg",
           "voteType": "not-fake",
           "commentDateTime": "2025-08-10T13:00:00Z"
         }
