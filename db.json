@@ -7,10 +7,10 @@
       "reporter": "Alice Johnson",
       "newsDateTime": "2025-08-10T10:00:00Z",
       "description": "The biggest tech event of the year kicks off.",
-      "content": "The Bangkok International Tech Conference 2025 opened today with thousands of attendees from around the world. Keynote speakers discussed the future of AI, blockchain, and green technologies.",
+      "content": "The biggest technology gathering in Southeast Asia, Techsauce Global Summit 2025, is set to open its doors. It will run from August 4 to 6, 2025, at the Queen Sirikit National Convention Center (QSNCC) in Bangkok. This year’s theme, “The Dawn of Symbiosis,” aims to explore how humans and technology will blend effortlessly. It’s a significant step toward understanding our shared future. This event promises a deep dive into new innovations and chances that have never existed before. Techsauce Global Summit 2025 brings together many top thinkers and pioneers. These leaders will share their insights and inspire attendees. The lineup includes a diverse group of experts. Over 250 more leading speakers from around the world will share their views and valuable knowledge. They will cover many technology fields. The event promises solid and engaging content over three full days. This is a key opportunity to help shape the future of technology and society. Join Techsauce Global Summit 2025 and be part of “The Dawn of Symbiosis.”",
       "image": "https://www.bangkokpost.com/events/media/content/2023/08/23/gal-63-3680.jpg",
-      "fakeCount": 2,
-      "notFakeCount": 50,
+      "fakeCount": 10,
+      "notFakeCount": 5,
       "voteType": "not-fake",
       "comments": [
         {
@@ -76,10 +76,10 @@
       "reporter": "Michael Brown",
       "newsDateTime": "2025-08-11T09:00:00Z",
       "description": "A groundbreaking EV model was revealed.",
-      "content": "The new EV promises a 700km range on a single charge, autonomous driving features, and faster charging times compared to previous models.",
+      "content": "The new EV promises a 700 km range on a single charge, autonomous driving features, and faster charging times compared to previous models. On the menu are cars and an increasing number of SUVs and pickups. And there will be a broader array of plug-in hybrid models, which can run on mostly electric power for a stretch before a gasoline engine kicks in and operates the vehicle more like a traditional hybrid. The rollout of new EV and plug-in hybrid models across different segments is good news for consumers looking for an alternative-fuel vehicle that will fit their needs. Below is a rundown of some of the models that are worth watching for in the next couple of years. The list is alphabetical by automaker. Prices are estimates in most cases.",
       "image": "https://images.hindustantimes.com/auto/img/2021/11/16/600x338/AVATR_1637061391650_1637061407234.JPG",
       "fakeCount": 3,
-      "notFakeCount": 3,
+      "notFakeCount": 4,
       "voteType": "not-fake",
       "comments": [
         {
@@ -112,7 +112,7 @@
       "content": "Markets across Asia and Europe fell sharply this morning following concerns over slowing global growth and rising inflation.",
       "image": "https://img.freepik.com/premium-photo/global-market-crash-stock-chart-shows-dramatic-decline_1318161-4188.jpg",
       "fakeCount": 5,
-      "notFakeCount": 30,
+      "notFakeCount": 7,
       "voteType": "fake",
       "comments": []
     },
@@ -125,8 +125,8 @@
       "description": "Extreme heat recorded in multiple countries.",
       "content": "Several countries in Europe are experiencing record-breaking heat, with temperatures exceeding 45°C in some areas. Authorities warn of health risks.",
       "image": "https://www.ucdavis.edu/sites/default/files/media/images/uc-davis-climate-change-global-impact.jpg",
-      "fakeCount": 3,
-      "notFakeCount": 60,
+      "fakeCount": 5,
+      "notFakeCount": 3,
       "voteType": "not-fake",
       "comments": [
         {
@@ -148,7 +148,7 @@
       "newsDateTime": "2025-08-14T11:00:00Z",
       "description": "Scientists announce new promising therapy.",
       "content": "A new therapy tested on patients shows significant progress in reducing tumor size with minimal side effects.",
-      "image": "https://picsum.photos/id/1023/600/400.jpg",
+      "image": "https://img.pikbest.com/ai/illus_our/20230422/a23d886eb713edef683d2344a9d6690b.jpg",
       "fakeCount": 0,
       "notFakeCount": 90,
       "voteType": "not-fake",
@@ -177,7 +177,7 @@
       "newsDateTime": "2025-08-15T14:30:00Z",
       "description": "AI used in complex surgery.",
       "content": "Doctors successfully completed a surgery with the assistance of an AI-powered robotic system, reducing operation time by 40%.",
-      "image": "https://picsum.photos/id/1025/600/400.jpg",
+      "image": "https://img.freepik.com/premium-photo/ai-robots-enhance-surgical-precision_466739-17380.jpg",
       "fakeCount": 1,
       "notFakeCount": 100,
       "voteType": "not-fake",
@@ -191,7 +191,7 @@
       "newsDateTime": "2025-08-15T20:00:00Z",
       "description": "Historic mission to colonize Mars begins.",
       "content": "SpaceX successfully launched its latest rocket carrying equipment and crew for the Mars colonization program.",
-      "image": "https://picsum.photos/id/1026/600/400.jpg",
+      "image": "https://www.teslarati.com/wp-content/uploads/2020/12/Starship-2019-Mars-base-render-SpaceX-1-crop-close-c.jpg",
       "fakeCount": 0,
       "notFakeCount": 120,
       "voteType": "not-fake",
@@ -215,9 +215,9 @@
       "newsDateTime": "2025-08-16T09:00:00Z",
       "description": "Next-gen console set to release this winter.",
       "content": "The new console boasts 8K graphics, ultra-fast loading times, and support for immersive VR experiences.",
-      "image": "https://picsum.photos/id/1027/600/400.jpg",
-      "fakeCount": 2,
-      "notFakeCount": 80,
+      "image": "https://www.kiwikidsnews.co.nz/wp-content/uploads/2023/05/project-q.jpg",
+      "fakeCount": 45,
+      "notFakeCount": 43,
       "voteType": "not-fake",
       "comments": []
     },
@@ -229,9 +229,9 @@
       "newsDateTime": "2025-08-16T18:00:00Z",
       "description": "Urgent talks on climate crisis.",
       "content": "Leaders from 50+ countries gathered to discuss new commitments toward reducing global carbon emissions and transitioning to renewable energy.",
-      "image": "https://picsum.photos/id/1028/600/400.jpg",
+      "image": "https://static.srpcdigital.com/styles/1037xauto/public/2022/11/07/_2022-11-07t102648z_1884510536_rc2xgx9770be_rtrmadp_3_climate-un-1667816995.jpg",
       "fakeCount": 4,
-      "notFakeCount": 60,
+      "notFakeCount": 50,
       "voteType": "not-fake",
       "comments": []
     }
