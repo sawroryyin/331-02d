@@ -44,9 +44,9 @@
           "id": 104,
           "newsId": 1,
           "author": "Wai Yan",
-          "content": "I attended last year",
+          "content": "I didn't hear about it!",
           "image": "",
-          "voteType": "not-fake",
+          "voteType": "fake",
           "commentDateTime": "2025-08-10T13:00:00Z"
         },
         {
@@ -77,7 +77,7 @@
       "newsDateTime": "2025-08-11T09:00:00Z",
       "description": "A groundbreaking EV model was revealed.",
       "content": "The new EV promises a 700km range on a single charge, autonomous driving features, and faster charging times compared to previous models.",
-      "image": "https://picsum.photos/id/1016/600/400.jpg",
+      "image": "https://images.hindustantimes.com/auto/img/2021/11/16/600x338/AVATR_1637061391650_1637061407234.JPG",
       "fakeCount": 1,
       "notFakeCount": 70,
       "voteType": "not-fake",
@@ -89,6 +89,15 @@
           "content": "Finally, long-range EVs are here!",
           "image": "https://picsum.photos/id/1011/100/100.jpg",
           "voteType": "not-fake",
+          "commentDateTime": "2025-08-11T10:20:00Z"
+        },
+        {
+          "id": 202,
+          "newsId": 2,
+          "author": "Tom Wilson",
+          "content": "I don't think so",
+          "image": "https://picsum.photos/id/1011/100/100.jpg",
+          "voteType": "fake",
           "commentDateTime": "2025-08-11T10:20:00Z"
         }
       ]
