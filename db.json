@@ -78,8 +78,8 @@
       "description": "A groundbreaking EV model was revealed.",
       "content": "The new EV promises a 700km range on a single charge, autonomous driving features, and faster charging times compared to previous models.",
       "image": "https://images.hindustantimes.com/auto/img/2021/11/16/600x338/AVATR_1637061391650_1637061407234.JPG",
-      "fakeCount": 1,
-      "notFakeCount": 70,
+      "fakeCount": 3,
+      "notFakeCount": 3,
       "voteType": "not-fake",
       "comments": [
         {
@@ -110,7 +110,7 @@
       "newsDateTime": "2025-08-12T08:00:00Z",
       "description": "Stock markets tumble worldwide.",
       "content": "Markets across Asia and Europe fell sharply this morning following concerns over slowing global growth and rising inflation.",
-      "image": "https://picsum.photos/id/1021/600/400.jpg",
+      "image": "https://img.freepik.com/premium-photo/global-market-crash-stock-chart-shows-dramatic-decline_1318161-4188.jpg",
       "fakeCount": 5,
       "notFakeCount": 30,
       "voteType": "fake",
@@ -124,7 +124,7 @@
       "newsDateTime": "2025-08-13T15:00:00Z",
       "description": "Extreme heat recorded in multiple countries.",
       "content": "Several countries in Europe are experiencing record-breaking heat, with temperatures exceeding 45°C in some areas. Authorities warn of health risks.",
-      "image": "https://picsum.photos/id/1022/600/400.jpg",
+      "image": "https://www.ucdavis.edu/sites/default/files/media/images/uc-davis-climate-change-global-impact.jpg",
       "fakeCount": 3,
       "notFakeCount": 60,
       "voteType": "not-fake",
@@ -134,7 +134,7 @@
           "newsId": 4,
           "author": "Sarah Lee",
           "content": "Climate change is real!",
-          "image": "https://picsum.photos/id/1012/100/100.jpg",
+          "image": "https://www.farminguk.com/images/news/61409_1.jpg",
           "voteType": "not-fake",
           "commentDateTime": "2025-08-13T16:00:00Z"
         }
@@ -163,7 +163,7 @@
       "newsDateTime": "2025-08-14T22:00:00Z",
       "description": "Banks worldwide targeted by hackers.",
       "content": "A coordinated cyberattack disrupted services in major banks across multiple countries. Authorities are investigating possible state involvement.",
-      "image": "https://picsum.photos/id/1024/600/400.jpg",
+      "image": "https://images.idgesg.net/images/article/2019/10/cso_cybersecurity_cyber_attack_warning_danger_threat_hack_by_matejmo_gettyimages-486818926_2400x1600-100813827-large.3x2.jpg",
       "fakeCount": 7,
       "notFakeCount": 20,
       "voteType": "fake",
