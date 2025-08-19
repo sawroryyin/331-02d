@@ -11,7 +11,7 @@
       "image": "https://www.bangkokpost.com/events/media/content/2023/08/23/gal-63-3680.jpg",
       "fakeCount": 10,
       "notFakeCount": 5,
-      "voteType": "not-fake",
+      "voteType": "fake",
       "comments": [
         {
           "id": 101,
@@ -113,7 +113,7 @@
       "image": "https://img.freepik.com/premium-photo/global-market-crash-stock-chart-shows-dramatic-decline_1318161-4188.jpg",
       "fakeCount": 5,
       "notFakeCount": 7,
-      "voteType": "fake",
+      "voteType": "not-fake",
       "comments": []
     },
     {
@@ -127,7 +127,7 @@
       "image": "https://www.ucdavis.edu/sites/default/files/media/images/uc-davis-climate-change-global-impact.jpg",
       "fakeCount": 5,
       "notFakeCount": 3,
-      "voteType": "not-fake",
+      "voteType": "fake",
       "comments": [
         {
           "id": 401,
@@ -166,7 +166,7 @@
       "image": "https://images.idgesg.net/images/article/2019/10/cso_cybersecurity_cyber_attack_warning_danger_threat_hack_by_matejmo_gettyimages-486818926_2400x1600-100813827-large.3x2.jpg",
       "fakeCount": 7,
       "notFakeCount": 20,
-      "voteType": "fake",
+      "voteType": "not-fake",
       "comments": []
     },
     {
@@ -178,9 +178,9 @@
       "description": "AI used in complex surgery.",
       "content": "Doctors successfully completed a surgery with the assistance of an AI-powered robotic system, reducing operation time by 40%.",
       "image": "https://img.freepik.com/premium-photo/ai-robots-enhance-surgical-precision_466739-17380.jpg",
-      "fakeCount": 1,
-      "notFakeCount": 100,
-      "voteType": "not-fake",
+      "fakeCount": 29,
+      "notFakeCount": 5,
+      "voteType": "fake",
       "comments": []
     },
     {
@@ -218,7 +218,7 @@
       "image": "https://www.kiwikidsnews.co.nz/wp-content/uploads/2023/05/project-q.jpg",
       "fakeCount": 45,
       "notFakeCount": 43,
-      "voteType": "not-fake",
+      "voteType": "fake",
       "comments": []
     },
     {
