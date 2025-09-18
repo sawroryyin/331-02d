@@ -1,239 +1,29 @@
 {
-  "news": [
-    {
-      "id": 1,
-      "title": "Tech Conference 2025 Opens in Bangkok",
-      "category": "Technology",
-      "reporter": "Alice Johnson",
-      "newsDateTime": "2025-08-10T10:00:00Z",
-      "description": "The biggest tech event of the year kicks off.",
-      "content": "The biggest technology gathering in Southeast Asia, Techsauce Global Summit 2025, is set to open its doors. Find upcoming conferences, events, seminars, webinars, and workshops taking place in Bangkok 2025 with invitation letter. Bangkok is a diverse and dynamic city that offers a wide range of opportunities for academic and professional development.",
-      "image": "https://www.bangkokpost.com/events/media/content/2023/08/23/gal-63-3680.jpg",
-      "fakeCount": 10,
-      "notFakeCount": 5,
-      "voteType": "fake",
-      "comments": [
+    "auctionItems": [
         {
-          "id": 101,
-          "newsId": 1,
-          "author": "John Doe",
-          "content": "Yeah, I went to that event",
-          "image": "https://www.bangkokpost.com/events/media/content/2023/08/23/gal-63-3685.jpg",
-          "voteType": "not-fake",
-          "commentDateTime": "2025-08-10T12:30:00Z"
+            "id": 123,
+            "description": "Antique Vase",
+            "type": "Collectible"
         },
         {
-          "id": 102,
-          "newsId": 1,
-          "author": "Jane Smith",
-          "content": "With my friends there!",
-          "image": "https://www.bangkokpost.com/events/media/content/2023/08/23/gal-63-3675.jpg",
-          "voteType": "not-fake",
-          "commentDateTime": "2025-08-10T13:00:00Z"
+            "id": 456,
+            "description": "Vintage Watch",
+            "type": "Luxury"
         },
         {
-          "id": 103,
-          "newsId": 1,
-          "author": "Min Thant Ko",
-          "content": "I saw it on the news",
-          "image": "",
-          "voteType": "not-fake",
-          "commentDateTime": "2025-08-10T13:00:00Z"
+            "id": 789,
+            "description": "Painting by Local Artist",
+            "type": "Art"
         },
         {
-          "id": 104,
-          "newsId": 1,
-          "author": "Wai Yan",
-          "content": "I didn't hear about it!",
-          "image": "",
-          "voteType": "fake",
-          "commentDateTime": "2025-08-10T13:00:00Z"
+            "id": 1001,
+            "description": "Rare Comic Book",
+            "type": "Collectible"
         },
         {
-          "id": 105,
-          "newsId": 1,
-          "author": "Phone Myat",
-          "content": "Nice!",
-          "image": "",
-          "voteType": "not-fake",
-          "commentDateTime": "2025-08-10T13:00:00Z"
-        },
-        {
-          "id": 106,
-          "newsId": 1,
-          "author": "Ko Ko",
-          "content": "I gave a speech there!",
-          "image": "https://www.bangkokpost.com/events/media/content/2023/08/23/gal-63-3678.jpg",
-          "voteType": "not-fake",
-          "commentDateTime": "2025-08-10T13:00:00Z"
+            "id": 1002,
+            "description": "Handmade Wooden Chair",
+            "type": "Furniture"
         }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "New Electric Car Model Released",
-      "category": "Automotive",
-      "reporter": "Michael Brown",
-      "newsDateTime": "2025-08-11T09:00:00Z",
-      "description": "A groundbreaking EV model was revealed.",
-      "content": "The new EV promises a 700 km range on a single charge, autonomous driving features, and faster charging times compared to previous models.",
-      "image": "https://images.hindustantimes.com/auto/img/2021/11/16/600x338/AVATR_1637061391650_1637061407234.JPG",
-      "fakeCount": 3,
-      "notFakeCount": 4,
-      "voteType": "not-fake",
-      "comments": [
-        {
-          "id": 201,
-          "newsId": 2,
-          "author": "Tom Wilson",
-          "content": "Finally, long-range EVs are here!",
-          "image": "https://picsum.photos/id/1011/100/100.jpg",
-          "voteType": "not-fake",
-          "commentDateTime": "2025-08-11T10:20:00Z"
-        },
-        {
-          "id": 202,
-          "newsId": 2,
-          "author": "Tom Wilson",
-          "content": "I don't think so",
-          "image": "https://picsum.photos/id/1011/100/100.jpg",
-          "voteType": "fake",
-          "commentDateTime": "2025-08-11T10:20:00Z"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Global Markets See Sudden Drop",
-      "category": "Finance",
-      "reporter": "Emma Davis",
-      "newsDateTime": "2025-08-12T08:00:00Z",
-      "description": "Stock markets tumble worldwide.",
-      "content": "Markets across Asia and Europe fell sharply this morning following concerns over slowing global growth and rising inflation.",
-      "image": "https://img.freepik.com/premium-photo/global-market-crash-stock-chart-shows-dramatic-decline_1318161-4188.jpg",
-      "fakeCount": 5,
-      "notFakeCount": 7,
-      "voteType": "not-fake",
-      "comments": []
-    },
-    {
-      "id": 4,
-      "title": "Record-Breaking Heatwave Hits Europe",
-      "category": "Environment",
-      "reporter": "Liam Wong",
-      "newsDateTime": "2025-08-13T15:00:00Z",
-      "description": "Extreme heat recorded in multiple countries.",
-      "content": "Several countries in Europe are experiencing record-breaking heat, with temperatures exceeding 45°C in some areas. Authorities warn of health risks.",
-      "image": "https://www.ucdavis.edu/sites/default/files/media/images/uc-davis-climate-change-global-impact.jpg",
-      "fakeCount": 5,
-      "notFakeCount": 3,
-      "voteType": "fake",
-      "comments": [
-        {
-          "id": 401,
-          "newsId": 4,
-          "author": "Sarah Lee",
-          "content": "Climate change is real!",
-          "image": "https://www.farminguk.com/images/news/61409_1.jpg",
-          "voteType": "not-fake",
-          "commentDateTime": "2025-08-13T16:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Breakthrough in Cancer Research",
-      "category": "Health",
-      "reporter": "Noah Kim",
-      "newsDateTime": "2025-08-14T11:00:00Z",
-      "description": "Scientists announce new promising therapy.",
-      "content": "A new therapy tested on patients shows significant progress in reducing tumor size with minimal side effects.",
-      "image": "https://img.pikbest.com/ai/illus_our/20230422/a23d886eb713edef683d2344a9d6690b.jpg",
-      "fakeCount": 0,
-      "notFakeCount": 90,
-      "voteType": "not-fake",
-
-      "comments": []
-    },
-    {
-      "id": 6,
-      "title": "Major Cyberattack on Banking Systems",
-      "category": "Cybersecurity",
-      "reporter": "Sophia Martinez",
-      "newsDateTime": "2025-08-14T22:00:00Z",
-      "description": "Banks worldwide targeted by hackers.",
-      "content": "A coordinated cyberattack disrupted services in major banks across multiple countries. Authorities are investigating possible state involvement.",
-      "image": "https://images.idgesg.net/images/article/2019/10/cso_cybersecurity_cyber_attack_warning_danger_threat_hack_by_matejmo_gettyimages-486818926_2400x1600-100813827-large.3x2.jpg",
-      "fakeCount": 7,
-      "notFakeCount": 20,
-      "voteType": "not-fake",
-      "comments": []
-    },
-    {
-      "id": 7,
-      "title": "AI Robot Assists in Surgery",
-      "category": "Technology",
-      "reporter": "David Green",
-      "newsDateTime": "2025-08-15T14:30:00Z",
-      "description": "AI used in complex surgery.",
-      "content": "Doctors successfully completed a surgery with the assistance of an AI-powered robotic system, reducing operation time by 40%.",
-      "image": "https://img.freepik.com/premium-photo/ai-robots-enhance-surgical-precision_466739-17380.jpg",
-      "fakeCount": 29,
-      "notFakeCount": 5,
-      "voteType": "fake",
-      "comments": []
-    },
-    {
-      "id": 8,
-      "title": "SpaceX Launches New Mission to Mars",
-      "category": "Space",
-      "reporter": "Olivia White",
-      "newsDateTime": "2025-08-15T20:00:00Z",
-      "description": "Historic mission to colonize Mars begins.",
-      "content": "SpaceX successfully launched its latest rocket carrying equipment and crew for the Mars colonization program.",
-      "image": "https://www.teslarati.com/wp-content/uploads/2020/12/Starship-2019-Mars-base-render-SpaceX-1-crop-close-c.jpg",
-      "fakeCount": 0,
-      "notFakeCount": 120,
-      "voteType": "not-fake",
-      "comments": [
-        {
-          "id": 801,
-          "newsId": 8,
-          "author": "Chris Evans",
-          "content": "History in the making!",
-          "image": "https://picsum.photos/id/1013/100/100.jpg",
-          "voteType": "not-fake",
-          "commentDateTime": "2025-08-15T21:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "title": "New Gaming Console Announced",
-      "category": "Entertainment",
-      "reporter": "Daniel Scott",
-      "newsDateTime": "2025-08-16T09:00:00Z",
-      "description": "Next-gen console set to release this winter.",
-      "content": "The new console boasts 8K graphics, ultra-fast loading times, and support for immersive VR experiences.",
-      "image": "https://www.kiwikidsnews.co.nz/wp-content/uploads/2023/05/project-q.jpg",
-      "fakeCount": 45,
-      "notFakeCount": 43,
-      "voteType": "fake",
-      "comments": []
-    },
-    {
-      "id": 10,
-      "title": "World Leaders Meet for Climate Summit",
-      "category": "Politics",
-      "reporter": "Sophia Turner",
-      "newsDateTime": "2025-08-16T18:00:00Z",
-      "description": "Urgent talks on climate crisis.",
-      "content": "Leaders from 50+ countries gathered to discuss new commitments toward reducing global carbon emissions and transitioning to renewable energy.",
-      "image": "https://static.srpcdigital.com/styles/1037xauto/public/2022/11/07/_2022-11-07t102648z_1884510536_rc2xgx9770be_rtrmadp_3_climate-un-1667816995.jpg",
-      "fakeCount": 4,
-      "notFakeCount": 50,
-      "voteType": "not-fake",
-      "comments": []
-    }
-  ]
+    ]
 }
